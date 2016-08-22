@@ -25,12 +25,6 @@ body {
 	margin: 0px 10px 10px 0px;
 }
 
-.tour li {
-  display: inline;
-  height:375px;
-  width:500px;
-}
-
 ul {
 	list-style-type: none;
 	margin: 10px 10px 5px 10px;
